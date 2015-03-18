@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 
+hgsnooper.ini
+
 dropin.cache
 twistd.log*
 twistd.pid
