@@ -1,0 +1,9 @@
+[repo_my_proj]
+path = /path/to/proj/dir
+refresh = 60 ; seconds
+name = Super project
+
+[repo_not_my_proj]
+path = /path/to/proj/dir
+refresh = 30 ; seconds
+name = Not super project
